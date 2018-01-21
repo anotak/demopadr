@@ -4,7 +4,7 @@ you start doom. this is due to the revenant tracer desync issue.
 for more information see this [DoomWiki article](https://doomwiki.org/wiki/Revenant_tracers_desync_internal_demos).
 demopadr is a commandline tool that runs on demo lmp files.
 correct usage is:
-      demopadr <input> <output>
+      `demopadr <input> <output>`
 
 for this to work, all 3 demos in a wad must be padded. otherwise demos with revenants may still desync on vanilla/choco doom.
 
